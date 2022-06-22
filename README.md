@@ -1,5 +1,8 @@
 ## Configure
 
+Sistem Pakar Diagnosa Penyakit Pada Ibu Hamil 
+Program Skripsi 2022 - Topaz
+
 Gunakan XAMPP v.3.2.2 dengan <b>Php 5 (*)</b> & <b>mysql 5.6</b> 
 
 ```<?php
@@ -14,8 +17,6 @@ mysql_select_db($database) or die("Maaf, Database tidak bisa dibuka");
 ```
 ## Formula yang digunakan:
 ```
-Posted by totoharyanto on November 25th, 2011 / totoharyanto.staff.ipb.ac.id/2011/11/25/certainty-factor-cf/
-
 Certainty Factor (CF) merupakan salah satu teknik yang digunakan untuk mengatasi ketidakpastian dalam pengambilan keputusan. Certainty Factor (CF) dapat terjadi dengan berbagai kondisi. 
 Diantara kondisi yang terjadi adalah terdapat beberapa antensenden (dalam rule yang berbeda) dengan satu konsekuen yang sama. 
 Dalam kasus ini, kita harus mengagregasikan nilai CF keseluruhan dari setiap kondisi yang ada. Berikut formula yang digunakan:
