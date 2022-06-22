@@ -1,7 +1,7 @@
 ## Configure
 
-Sistem Pakar Diagnosa Penyakit Pada Ibu Hamil 
-Program Skripsi 2022 - Topaz
+Sistem Pakar Diagnosa Penyakit Pada Ibu Hamil  
+(Program Skripsi 2022 - Topaz)
 
 Gunakan XAMPP v.3.2.2 dengan <b>Php 5 (*)</b> & <b>mysql 5.6</b> 
 
